@@ -37,3 +37,6 @@ git commit -am "messages"
 
 git reset or git reset filename is used to undo your last git add 
 or last git commit  -- git reset HEAD~1 / HEAD
+
+
+git reset --hard YourHashCode(Get from git log) - undos all changes to this commit stage
