@@ -1,0 +1,7 @@
+print("GIt is awesome....Trying git status")
+print("Gives status of currently updated files that are not yet committed")
+print("git add . - adds all the changed files to staging area")
+print("git add filename - adds specific file to staging area")
+print("git commit -m 'message' - commits the staged files to local repository with a message")
+print("keyname - privatekey \n keyname.pub - public key")
+print("private key - kept secret \n public key - upload on github")
