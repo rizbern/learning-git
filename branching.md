@@ -26,3 +26,10 @@ Switched to branch 'new-branch'
 
 # git pull
 you do git pull when you want to pull all the updates that where made to the code on github
+
+
+for mdoified files only :
+git commit -am "messages"
+
+-a - add
+-m - message
