@@ -20,3 +20,9 @@ Your branch is up to date with 'origin/main'.
 HP@LAPTOP-GHNT2I05 MINGW64 ~/Desktop/learning-git (main)
 $ git checkout new-branch
 Switched to branch 'new-branch'
+
+
+
+
+# git pull
+you do git pull when you want to pull all the updates that where made to the code on github
