@@ -33,3 +33,7 @@ git commit -am "messages"
 
 -a - add
 -m - message
+
+
+git reset or git reset filename is used to undo your last git add 
+or last git commit  -- git reset HEAD~1 / HEAD
